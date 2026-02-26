@@ -14,3 +14,8 @@ Thumbs.db
 *.personal
 my-checklist.*
 private/
+build/
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
