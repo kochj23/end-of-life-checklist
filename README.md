@@ -58,7 +58,7 @@ Some families aren't technical. Print the filled-in version, put it in a binder,
 
 | # | Section | What It Covers |
 |---|---------|---------------|
-| 1 | **About Me** | Basic identity info, ICE contact, home inventory location |
+| 1 | **About Me** | Basic identity info, ICE (In Case of Emergency) contact, home inventory location |
 | 2 | **Medical Directives & Health** | DNR, healthcare POA, living will, organ donation, medications, doctors, medical equipment to return, frozen embryos/genetic material |
 | 3 | **Legal** | Will, executor, financial POA, trusts, guardianship of minors |
 | 4 | **Financial** | Bank accounts, credit cards, investments, retirement, safe deposit boxes, cash, valuables, POD/TOD designations, joint account warnings |
