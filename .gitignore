@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# If anyone accidentally puts real data in here
+*.filled
+*.personal
+my-checklist.*
+private/
