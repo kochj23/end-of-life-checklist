@@ -12,7 +12,7 @@ This isn't a will. This isn't a legal document. This is the practical, unglamoro
 
 > *"You're gone. Your family just walked into your house. Now what?"*
 
-Where are the bank accounts? Who's the mortgage with? What's the WiFi password? Is there a DNR? Who gets the dog? Where's the will? Are the property taxes paid? What do they do with your browser history? Who picks the kids up from school? Is there a funeral plan? What about the taxes?
+Where are the bank accounts? Who's the mortgage with? What's the WiFi password? Is there a DNR (Do Not Resuscitate)? Who gets the dog? Where's the will? Are the property taxes paid? What do they do with your browser history? Who picks the kids up from school? Is there a funeral plan? What about the taxes?
 
 All of it.
 
@@ -59,16 +59,16 @@ Some families aren't technical. Print the filled-in version, put it in a binder,
 | # | Section | What It Covers |
 |---|---------|---------------|
 | 1 | **About Me** | Basic identity info, ICE (In Case of Emergency) contact, home inventory location |
-| 2 | **Medical Directives & Health** | DNR, healthcare POA, living will, organ donation, medications, doctors, medical equipment to return, frozen embryos/genetic material |
+| 2 | **Medical Directives & Health** | DNR, healthcare POA (Power of Attorney), living will, organ donation, medications, doctors, medical equipment to return, frozen embryos/genetic material |
 | 3 | **Legal** | Will, executor, financial POA, trusts, guardianship of minors |
-| 4 | **Financial** | Bank accounts, credit cards, investments, retirement, safe deposit boxes, cash, valuables, POD/TOD designations, joint account warnings |
-| 5 | **Tax Obligations** | Final tax return, estate taxes, CPA info, filing deadlines, what needs to happen and when |
+| 4 | **Financial** | Bank accounts, credit cards, investments, retirement, safe deposit boxes, cash, valuables, POD/TOD (Payable on Death / Transfer on Death) designations, joint account warnings |
+| 5 | **Tax Obligations** | Final tax return, estate taxes, CPA (Certified Public Accountant) info, filing deadlines, what needs to happen and when |
 | 6 | **Insurance** | Life, health, home, auto, umbrella, long-term care, disability, pet |
 | 7 | **Property & Physical Assets** | Real estate, mortgage, property taxes, deeds, rental properties, storage units, warranties, home inventory for insurance |
 | 8 | **Debts & Obligations** | What you owe, who to pay, what your family does NOT owe |
 | 9 | **Digital Life** | Password manager (with chicken-and-egg lockout warning), devices, email, social media, cloud storage, subscriptions, crypto, domains, smart home, gaming accounts |
-| 10 | **Employment & Benefits** | Employer HR, life insurance through work, COBRA, stock options, business ownership |
-| 11 | **Government Notifications** | SSA, Medicare, Medicaid, VA, DMV, voter registration, veterans benefits |
+| 10 | **Employment & Benefits** | Employer HR (Human Resources), life insurance through work, COBRA (Consolidated Omnibus Budget Reconciliation Act), stock options, business ownership |
+| 11 | **Government Notifications** | SSA (Social Security Administration), Medicare, Medicaid, VA (Veterans Affairs), DMV (Department of Motor Vehicles), voter registration, veterans benefits |
 | 12 | **Identity Theft Protection** | Credit bureau alerts, fraud prevention — dead people are the #1 target |
 | 13 | **Pets** | Who gets them, vet info, feeding schedules, medications, behavioral notes |
 | 14 | **Children & Dependents** | School, childcare, activities, medical info, daily routines, custody, friends, comfort items — everything a guardian needs |
