@@ -96,7 +96,8 @@
 - [ ] Decide: burial or cremation (check their documented preference)
 - [ ] If a veteran, contact the VA — they provide burial benefits, a headstone, and a flag at no cost. Call 1-800-827-1000.
 - [ ] Set a date for the service (usually 3-7 days out, but there's no rule)
-- [ ] Ask someone to handle the obituary draft
+- [ ] Ask someone to handle the obituary draft — see [Obituary Preferences](the-checklist.md#obituary-preferences) for their wishes on what to include/exclude
+- [ ] **Do NOT publish the home address in the obituary** — burglars read obituaries to know when homes will be empty. Ask a neighbor or friend to stay at the house during the service.
 - [ ] Designate someone to manage the guest logistics (food, flowers, venue)
 
 ### Government Notifications
@@ -114,6 +115,7 @@
 
 ### Financial — First Steps Only
 - [ ] **Do NOT close any bank accounts yet** — you may need them for bills
+- [ ] **If you're on a joint account:** Be aware that some banks freeze accounts when notified of a death — even joint accounts. Make sure you have enough cash for immediate needs before notifying the bank. Talk to the attorney first.
 - [ ] Identify which bills are on autopay and from which accounts (see [Financial section](the-checklist.md#financial))
 - [ ] Make sure mortgage/rent gets paid this month
 - [ ] Make sure utilities stay on
@@ -163,6 +165,8 @@
 | Who Else Has Access | `_______________` |
 
 > **Note for families:** A "password manager" is an app or service that stores all of someone's passwords in one secure place. You only need ONE master password or recovery kit to access everything inside it. The location of that master password or recovery kit is the single most important piece of information in this entire document.
+
+> **If you're locked out:** If the emergency kit is in a safe you can't open, or in a password manager you can't access — check with the attorney, the executor, or any trusted person listed in this document. There should be at least one access path that doesn't depend on another locked system. If not, a locksmith can open a physical safe, and most password managers have an account recovery process that requires identity verification and a waiting period.
 
 ---
 

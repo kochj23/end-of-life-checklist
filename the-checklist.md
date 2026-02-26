@@ -32,8 +32,9 @@
 21. [Personal Wishes & Bequests](#personal-wishes--bequests)
 22. [Letters to Loved Ones](#letters-to-loved-ones)
 23. [The Uncomfortable Stuff](#the-uncomfortable-stuff)
-24. [Annual Review Log](#annual-review-log)
-25. [Grief & Support Resources](#grief--support-resources)
+24. [Common Mistakes Families Make](#common-mistakes-families-make)
+25. [Annual Review Log](#annual-review-log)
+26. [Grief & Support Resources](#grief--support-resources)
 
 ---
 
@@ -54,6 +55,8 @@
 | Divorce Decree Location (if applicable) | `_______________` |
 | Military Service / DD-214 Location | `_______________` |
 | Religious Affiliation (if any) | `_______________` |
+| ICE Contact Set on Phone? | [ ] Yes [ ] No *(In Case of Emergency — first responders check this. Set it up: iPhone: Health app > Medical ID. Android: Settings > Safety & Emergency.)* |
+| Home Inventory (Photo/Video) | `_______________` *(location of walkthrough video or photo documentation of belongings — critical for insurance claims)* |
 
 ---
 
@@ -288,6 +291,22 @@ _______________________________________________________________________________
 
 > **Important:** Accounts with designated beneficiaries (like 401k, IRA, life insurance) pass OUTSIDE the will. The beneficiary designation on the account overrides whatever the will says. Make sure these are up to date.
 
+### POD/TOD Designations
+
+*Most people don't know these exist. They're free, they take 10 minutes at the bank, and they bypass probate entirely.*
+
+**Payable on Death (POD)** designations on bank accounts and **Transfer on Death (TOD)** designations on brokerage accounts let you name a beneficiary who automatically inherits the account when you die — no probate, no waiting, no attorney fees. The beneficiary has zero access while you're alive.
+
+Ask your bank or broker: *"Can I add a POD/TOD beneficiary to this account?"* It's a one-page form.
+
+| Account | POD/TOD Beneficiary Set? | Beneficiary Name | Notes |
+|---------|-------------------------|-----------------|-------|
+| `_______________` | [ ] Yes [ ] No | `_______________` | `_______________` |
+| `_______________` | [ ] Yes [ ] No | `_______________` | `_______________` |
+| `_______________` | [ ] Yes [ ] No | `_______________` | `_______________` |
+
+> **Warning about joint accounts:** When you notify a bank that an account holder has died, some banks will **freeze the entire account** — including joint accounts where the surviving owner should still have access. If you're the surviving spouse on a joint account, consider waiting to notify the bank until you've secured enough cash for immediate needs. Talk to the attorney first.
+
 ### Cash & Physical Valuables
 
 | Item | Location | Approximate Value | Notes |
@@ -386,6 +405,14 @@ _______________________________________________________________________________
 **Deed Location:** `_______________`
 **Title Insurance Policy Location:** `_______________`
 
+**Home Inventory for Insurance:**
+- [ ] Video walkthrough of home and belongings exists
+- [ ] Photo documentation of valuables exists
+- [ ] Location of inventory: `_______________` *(cloud storage, USB drive, etc.)*
+- [ ] Last updated: `_______________`
+
+> **Why this matters:** If you need to file a homeowner's insurance claim (fire, theft, flood), the insurance company will ask you to prove what was in the home and what it was worth. A 10-minute video walkthrough of every room — opening closets and drawers — is the single best thing you can do. Store it in the cloud, not in the house.
+
 ### Rental Properties (If You Are a Landlord)
 
 *If you own rental properties, your tenants need to know who to contact. Leases survive your death — tenants cannot be evicted just because the landlord died. Someone needs to manage these properties or the estate will lose income and the tenants will be left in limbo.*
@@ -460,6 +487,14 @@ _______________________________________________________________________________
 | 2FA Backup Codes Location | `_______________` |
 
 > **For the family:** The password manager is the skeleton key. Once you're into it, you can access almost everything else. If there's an "Emergency Kit" (a PDF or printed document), it has everything you need to get in. Find that first.
+
+> **THE CHICKEN-AND-EGG WARNING:** If the password manager emergency kit is in the fireproof safe, and the safe combination is in the password manager — you're locked out of everything. Make sure there is at least ONE access path that doesn't depend on another locked system. Common solutions:
+> - Give the safe combination to your attorney or executor separately
+> - Store the password manager emergency kit in your safe deposit box at the bank (accessible with ID and death certificate)
+> - Give a sealed copy of the emergency kit to a trusted person
+> - Write the safe combo on the back of the emergency kit (stored elsewhere)
+>
+> **Test this now:** Pretend you can't access the password manager or the safe. Can you still get into one of them using only information available to your family? If not, fix it today.
 
 ### Devices
 
@@ -1078,6 +1113,34 @@ _______________________________________________________________________________
 | Reception After? | `_______________` |
 | Obituary Notes | `_______________` |
 
+### Obituary Preferences
+
+*Families fight about obituaries more than you'd expect. Save them the argument.*
+
+| Item | Details |
+|------|---------|
+| Where to Publish | `_______________` *(newspaper name, online platform, funeral home website, etc.)* |
+| Do You Want an Obituary? | [ ] Yes [ ] No [ ] Brief death notice only |
+| Include Cause of Death? | [ ] Yes [ ] No |
+| Include Age? | [ ] Yes [ ] No |
+| Survivors to List | `_______________` |
+| People to NOT Mention | `_______________` |
+| Organizations / Accomplishments to Include | `_______________` |
+| "In Lieu of Flowers" Donation To | `_______________` |
+| Photo to Use | `_______________` *(where is a good recent photo?)* |
+| Tone | [ ] Traditional [ ] Celebratory [ ] Humorous [ ] Brief |
+
+```
+Draft notes / things you'd want included:
+_______________________________________________________________________________
+_______________________________________________________________________________
+_______________________________________________________________________________
+```
+
+> **Cost note for families:** Newspaper obituaries are charged by the word or by the line. A full obituary in a major paper can cost $200-$1,000+. Online obituaries (Legacy.com, funeral home websites) are often free or much cheaper. Ask the funeral home what's included in their package before paying separately.
+
+> **Security note:** Be careful about including the home address or specific funeral times in a public obituary. Burglars read obituaries to know when homes will be empty. Consider listing only the funeral home, not the family home address. Ask a trusted neighbor or friend to stay at the house during the service.
+
 ### Pre-Paid Funeral Plans
 
 | Item | Details |
@@ -1192,6 +1255,48 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 _______________________________________________________________________________
 ```
+
+---
+
+## Common Mistakes Families Make
+
+*Nobody teaches you how to handle someone's death. Here are the mistakes people make most often — and how to avoid them.*
+
+### Financial Mistakes
+
+- **Paying the deceased's debts from your own money.** Creditors will call. They will pressure you. They will imply you are obligated. In most states, **you are not personally responsible for the deceased's debts** unless you co-signed or you're a spouse in a community property state (AZ, CA, ID, LA, NV, NM, TX, WA, WI). The *estate* pays debts — not the family. Do not pay anything until the attorney reviews it.
+
+- **Notifying the bank before you're ready.** When you notify a bank that an account holder has died, some banks freeze the entire account — *including* joint accounts. If you're the surviving spouse on a joint account, make sure you have enough accessible cash for immediate needs (mortgage, groceries, gas) before notifying. Talk to the attorney first.
+
+- **Closing accounts too fast.** Don't close bank accounts, email accounts, or phone numbers until you're sure nothing else depends on them. Autopay bills, two-factor authentication, password resets, and pending refunds all route through existing accounts. Wait at least 90 days.
+
+- **Not ordering enough death certificates.** Every bank, insurance company, government agency, and financial institution will want an original certified copy. Order 10-15. You can always order more, but it takes weeks.
+
+### Security Mistakes
+
+- **Publishing funeral details with the home address.** Burglars read obituaries. They know the house will be empty during the service. Don't put the home address in the obituary. Ask a neighbor or friend to be at the house during the funeral.
+
+- **Not putting a deceased alert on the credit file.** Identity theft against deceased persons is extremely common. Contact all three credit bureaus within the first week. (See [Identity Theft Protection](#identity-theft-protection).)
+
+- **Not changing the locks.** The deceased may have given house keys to people you don't know about — neighbors, friends, ex-partners, caregivers, contractors. If you're unsure who has keys, change the locks.
+
+### Emotional Mistakes
+
+- **Going through belongings in the first week.** Don't. You're not ready. You won't make good decisions about what to keep and what to discard. Wait at least a month. When you do it, don't do it alone. Bring someone who can be objective and help you stop when you need to stop.
+
+- **Making major decisions in the first 30 days.** Don't sell the house. Don't move. Don't give away the car. Don't make any irreversible decisions while you're in acute grief. The conventional wisdom is to avoid major life decisions for at least a year if possible.
+
+- **Saying yes to everything.** People will want to help. Some of that help is genuinely useful (food, errands, childcare). Some of it is people processing their own grief by inserting themselves. It's okay to say: "Thank you, but not right now."
+
+- **Not accepting help.** The flip side. When someone says "What can I do?" — give them a specific task. "Can you pick up the kids from school Tuesday and Thursday?" "Can you handle the food for after the service?" "Can you sit at the house during the funeral?" People want to help. Let them.
+
+### Legal Mistakes
+
+- **Assuming Power of Attorney continues after death.** It doesn't. The moment the person dies, the POA has no authority. The executor named in the will takes over. If there's no will, the court appoints an administrator. This transition is why having a will matters.
+
+- **Distributing assets before probate.** Don't start giving away belongings or distributing money until the attorney says it's okay. The estate may have debts that need to be settled first, and distributing assets prematurely can create legal problems.
+
+- **Throwing away mail.** Don't throw away any official-looking mail for at least a year. Bills, legal notices, insurance correspondence, and tax documents will keep arriving. Some of them have deadlines. When in doubt, keep it and show it to the attorney.
 
 ---
 

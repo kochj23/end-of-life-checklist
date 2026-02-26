@@ -50,22 +50,23 @@ Some families aren't technical. Print the filled-in version, put it in a binder,
 
 | File | What It Is |
 |------|-----------|
-| [`first-72-hours.md`](first-72-hours.md) | **Read this first.** A step-by-step emergency guide for the first 3 days — plus a 30/60/90-day follow-up roadmap and grief resources. Written for someone in crisis. |
-| [`the-checklist.md`](the-checklist.md) | The full document. 25 sections covering medical directives, legal, finances, taxes, insurance, property, digital life, government notifications, identity theft protection, children, pets, household operations, funeral preferences, personal wishes, and the uncomfortable stuff. |
+| [`quick-reference.md`](quick-reference.md) | **One page.** The 10 critical items, emergency contacts, first 5 things to do, first 5 things NOT to do, and essential phone numbers. Print this and tape it inside a kitchen cabinet. |
+| [`first-72-hours.md`](first-72-hours.md) | **Read this second.** A step-by-step emergency guide for the first 3 days — plus a 30/60/90-day follow-up roadmap and grief resources. Written for someone in crisis. |
+| [`the-checklist.md`](the-checklist.md) | **The full document.** 26 sections covering everything from medical directives to the uncomfortable stuff. This is the comprehensive reference. |
 
-## What's Covered (25 Sections)
+## What's Covered (26 Sections)
 
 | # | Section | What It Covers |
 |---|---------|---------------|
-| 1 | **About Me** | Basic identity info every agency will ask for |
+| 1 | **About Me** | Basic identity info, ICE contact, home inventory location |
 | 2 | **Medical Directives & Health** | DNR, healthcare POA, living will, organ donation, medications, doctors, medical equipment to return, frozen embryos/genetic material |
 | 3 | **Legal** | Will, executor, financial POA, trusts, guardianship of minors |
-| 4 | **Financial** | Bank accounts, credit cards, investments, retirement, safe deposit boxes, cash, valuables |
+| 4 | **Financial** | Bank accounts, credit cards, investments, retirement, safe deposit boxes, cash, valuables, POD/TOD designations, joint account warnings |
 | 5 | **Tax Obligations** | Final tax return, estate taxes, CPA info, filing deadlines, what needs to happen and when |
 | 6 | **Insurance** | Life, health, home, auto, umbrella, long-term care, disability, pet |
-| 7 | **Property & Physical Assets** | Real estate, mortgage, property taxes, deeds, rental properties, storage units, warranties |
+| 7 | **Property & Physical Assets** | Real estate, mortgage, property taxes, deeds, rental properties, storage units, warranties, home inventory for insurance |
 | 8 | **Debts & Obligations** | What you owe, who to pay, what your family does NOT owe |
-| 9 | **Digital Life** | Password manager, devices, email, social media, cloud storage, subscriptions, crypto, domains, smart home, gaming accounts |
+| 9 | **Digital Life** | Password manager (with chicken-and-egg lockout warning), devices, email, social media, cloud storage, subscriptions, crypto, domains, smart home, gaming accounts |
 | 10 | **Employment & Benefits** | Employer HR, life insurance through work, COBRA, stock options, business ownership |
 | 11 | **Government Notifications** | SSA, Medicare, Medicaid, VA, DMV, voter registration, veterans benefits |
 | 12 | **Identity Theft Protection** | Credit bureau alerts, fraud prevention — dead people are the #1 target |
@@ -75,13 +76,14 @@ Some families aren't technical. Print the filled-in version, put it in a binder,
 | 16 | **Vehicles** | Titles, loans, registration, toll accounts |
 | 17 | **Ongoing Commitments** | Board positions, volunteer roles, appointments, memberships, season tickets, keys you hold for others |
 | 18 | **Pending Travel** | Flights, hotels, Airbnbs, event tickets, travel insurance, cancellation info |
-| 19 | **Funeral & Memorial Preferences** | Religious/cultural requirements, burial vs cremation, service details, music, readings, pre-paid plans |
+| 19 | **Funeral & Memorial Preferences** | Religious/cultural requirements, burial vs cremation, service details, music, readings, obituary preferences, pre-paid plans |
 | 20 | **People to Notify** | The extended list beyond emergency contacts |
 | 21 | **Personal Wishes & Bequests** | Specific items for specific people |
 | 22 | **Letters to Loved Ones** | Where sealed personal letters are stored |
 | 23 | **The Uncomfortable Stuff** | Designated trusted person, things to delete, private accounts, items to dispose of |
-| 24 | **Annual Review Log** | Tracks when this document was last updated |
-| 25 | **Grief & Support Resources** | Crisis lines, grief counseling, children's grief support, practical assistance |
+| 24 | **Common Mistakes Families Make** | Financial, security, emotional, and legal mistakes — and how to avoid them |
+| 25 | **Annual Review Log** | Tracks when this document was last updated |
+| 26 | **Grief & Support Resources** | Crisis lines, grief counseling, children's grief support, practical assistance |
 
 ## Important Security Notes
 
