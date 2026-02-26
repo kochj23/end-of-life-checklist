@@ -12,7 +12,7 @@ This isn't a will. This isn't a legal document. This is the practical, unglamoro
 
 > *"You're gone. Your family just walked into your house. Now what?"*
 
-Where are the bank accounts? Who's the mortgage with? What's the WiFi password? Is there a DNR? Who gets the dog? Where's the will? Are the property taxes paid? What do they do with your browser history?
+Where are the bank accounts? Who's the mortgage with? What's the WiFi password? Is there a DNR? Who gets the dog? Where's the will? Are the property taxes paid? What do they do with your browser history? Who picks the kids up from school? Is there a funeral plan? What about the taxes?
 
 All of it.
 
@@ -50,8 +50,38 @@ Some families aren't technical. Print the filled-in version, put it in a binder,
 
 | File | What It Is |
 |------|-----------|
-| [`first-72-hours.md`](first-72-hours.md) | **Read this first.** A step-by-step emergency guide for the first 3 days. No fluff. Just what to do and in what order. |
-| [`the-checklist.md`](the-checklist.md) | The full document. Every account, every policy, every preference, every uncomfortable detail. |
+| [`first-72-hours.md`](first-72-hours.md) | **Read this first.** A step-by-step emergency guide for the first 3 days — plus a 30/60/90-day follow-up roadmap and grief resources. Written for someone in crisis. |
+| [`the-checklist.md`](the-checklist.md) | The full document. 25 sections covering medical directives, legal, finances, taxes, insurance, property, digital life, government notifications, identity theft protection, children, pets, household operations, funeral preferences, personal wishes, and the uncomfortable stuff. |
+
+## What's Covered (25 Sections)
+
+| # | Section | What It Covers |
+|---|---------|---------------|
+| 1 | **About Me** | Basic identity info every agency will ask for |
+| 2 | **Medical Directives & Health** | DNR, healthcare POA, living will, organ donation, medications, doctors, medical equipment to return, frozen embryos/genetic material |
+| 3 | **Legal** | Will, executor, financial POA, trusts, guardianship of minors |
+| 4 | **Financial** | Bank accounts, credit cards, investments, retirement, safe deposit boxes, cash, valuables |
+| 5 | **Tax Obligations** | Final tax return, estate taxes, CPA info, filing deadlines, what needs to happen and when |
+| 6 | **Insurance** | Life, health, home, auto, umbrella, long-term care, disability, pet |
+| 7 | **Property & Physical Assets** | Real estate, mortgage, property taxes, deeds, rental properties, storage units, warranties |
+| 8 | **Debts & Obligations** | What you owe, who to pay, what your family does NOT owe |
+| 9 | **Digital Life** | Password manager, devices, email, social media, cloud storage, subscriptions, crypto, domains, smart home, gaming accounts |
+| 10 | **Employment & Benefits** | Employer HR, life insurance through work, COBRA, stock options, business ownership |
+| 11 | **Government Notifications** | SSA, Medicare, Medicaid, VA, DMV, voter registration, veterans benefits |
+| 12 | **Identity Theft Protection** | Credit bureau alerts, fraud prevention — dead people are the #1 target |
+| 13 | **Pets** | Who gets them, vet info, feeding schedules, medications, behavioral notes |
+| 14 | **Children & Dependents** | School, childcare, activities, medical info, daily routines, custody, friends, comfort items — everything a guardian needs |
+| 15 | **Household Operations** | Mail handling/forwarding, utilities, maintenance contacts, shutoff valves, alarm codes, spare keys |
+| 16 | **Vehicles** | Titles, loans, registration, toll accounts |
+| 17 | **Ongoing Commitments** | Board positions, volunteer roles, appointments, memberships, season tickets, keys you hold for others |
+| 18 | **Pending Travel** | Flights, hotels, Airbnbs, event tickets, travel insurance, cancellation info |
+| 19 | **Funeral & Memorial Preferences** | Religious/cultural requirements, burial vs cremation, service details, music, readings, pre-paid plans |
+| 20 | **People to Notify** | The extended list beyond emergency contacts |
+| 21 | **Personal Wishes & Bequests** | Specific items for specific people |
+| 22 | **Letters to Loved Ones** | Where sealed personal letters are stored |
+| 23 | **The Uncomfortable Stuff** | Designated trusted person, things to delete, private accounts, items to dispose of |
+| 24 | **Annual Review Log** | Tracks when this document was last updated |
+| 25 | **Grief & Support Resources** | Crisis lines, grief counseling, children's grief support, practical assistance |
 
 ## Important Security Notes
 
@@ -97,6 +127,8 @@ You're an adult. Fill it in like one. Your executor will thank you.
 ## Contributing
 
 This is an open source template. If you think a section is missing, a question isn't asked, or something could be clearer, open an issue or submit a pull request. This document gets better when people share what they wish they'd known.
+
+If you've been through this — losing someone and having to figure everything out from scratch — your experience is exactly what makes this template better. We're sorry for your loss. And thank you.
 
 ## License
 

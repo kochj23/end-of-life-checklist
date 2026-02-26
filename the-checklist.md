@@ -13,19 +13,27 @@
 2. [Medical Directives & Health](#medical-directives--health)
 3. [Legal](#legal)
 4. [Financial](#financial)
-5. [Insurance](#insurance)
-6. [Property & Physical Assets](#property--physical-assets)
-7. [Debts & Obligations](#debts--obligations)
-8. [Digital Life](#digital-life)
-9. [Employment & Benefits](#employment--benefits)
-10. [Pets](#pets)
-11. [Household Operations](#household-operations)
-12. [Vehicles](#vehicles)
-13. [Funeral & Memorial Preferences](#funeral--memorial-preferences)
-14. [People to Notify](#people-to-notify)
-15. [Personal Wishes & Bequests](#personal-wishes--bequests)
-16. [The Uncomfortable Stuff](#the-uncomfortable-stuff)
-17. [Annual Review Log](#annual-review-log)
+5. [Tax Obligations](#tax-obligations)
+6. [Insurance](#insurance)
+7. [Property & Physical Assets](#property--physical-assets)
+8. [Debts & Obligations](#debts--obligations)
+9. [Digital Life](#digital-life)
+10. [Employment & Benefits](#employment--benefits)
+11. [Government Notifications](#government-notifications)
+12. [Identity Theft Protection](#identity-theft-protection)
+13. [Pets](#pets)
+14. [Children & Dependents](#children--dependents)
+15. [Household Operations](#household-operations)
+16. [Vehicles](#vehicles)
+17. [Ongoing Commitments & Obligations](#ongoing-commitments--obligations)
+18. [Pending Travel & Reservations](#pending-travel--reservations)
+19. [Funeral & Memorial Preferences](#funeral--memorial-preferences)
+20. [People to Notify](#people-to-notify)
+21. [Personal Wishes & Bequests](#personal-wishes--bequests)
+22. [Letters to Loved Ones](#letters-to-loved-ones)
+23. [The Uncomfortable Stuff](#the-uncomfortable-stuff)
+24. [Annual Review Log](#annual-review-log)
+25. [Grief & Support Resources](#grief--support-resources)
 
 ---
 
@@ -92,6 +100,22 @@ _______________________________________________________________________________
 | Donated To | `_______________` (e.g., university medical program) |
 | Any Restrictions? | `_______________` |
 
+> **Time-sensitive:** Organ donation must happen within hours of death. If this is desired, make sure the hospital knows BEFORE death if possible. Tissue donation has a longer window (up to 24 hours). Whole body donation programs must typically be arranged in advance.
+
+### Reproductive Material & Genetic Storage
+
+*If you have frozen embryos, eggs, sperm, or other genetic material in storage, someone needs to know — storage fees keep billing and decisions need to be made.*
+
+| Item | Details |
+|------|---------|
+| Type of Material | `_______________` *(embryos, eggs, sperm, etc.)* |
+| Stored At | `_______________` *(clinic/facility name)* |
+| Facility Phone | `_______________` |
+| Monthly/Annual Storage Fee | `_______________` |
+| Paid From | `_______________` *(which account)* |
+| Wishes (destroy, donate, transfer to partner) | `_______________` |
+| Documented In | `_______________` *(consent forms, will, separate directive)* |
+
 ### Current Health Information
 
 **Primary Care Physician:** `_______________`
@@ -128,6 +152,15 @@ _______________________________________________________________________________
 | Mental Health Conditions | `_______________` |
 | Blood Type | `_______________` |
 | Implanted Devices | `_______________` *(pacemaker, insulin pump, etc. — important for cremation)* |
+
+### Medical Equipment to Return
+
+*If there is rented or leased medical equipment in the home, the supplier will keep billing the estate until it's returned. Handle this within the first 30 days.*
+
+| Equipment | Supplier | Phone | Account # Location | Notes |
+|-----------|---------|-------|-------------------|-------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
 
 ---
 
@@ -191,6 +224,8 @@ _______________________________________________________________________________
 | Backup Guardian | `_______________` |
 | Documented In | `_______________` *(will, separate document, etc.)* |
 | Special Instructions | `_______________` |
+
+> **See also:** The [Children & Dependents](#children--dependents) section has the detailed information the guardian will need day-to-day.
 
 ### Other Legal Documents
 
@@ -267,6 +302,36 @@ _______________________________________________________________________________
 
 ---
 
+## Tax Obligations
+
+*The IRS does not pause for grief. Someone has to handle this — usually the executor, with help from the CPA.*
+
+### What Needs to Be Filed
+
+| Return | Who Files It | Deadline | Notes |
+|--------|-------------|----------|-------|
+| **Final individual tax return** (Form 1040) | Executor or surviving spouse | April 15 of the year after death | Covers Jan 1 through date of death. If married, surviving spouse can file jointly for the year of death. |
+| **Estate income tax return** (Form 1041) | Executor | April 15 of the year after the estate's tax year ends | Only if the estate earns income (interest, dividends, rent) after the date of death. |
+| **Estate tax return** (Form 706) | Executor | 9 months after date of death | Only required if the estate exceeds the federal exemption (currently ~$13M per person). Most estates don't need this, but check with the CPA. |
+| **State tax returns** | Executor | Varies by state | Some states have their own estate/inheritance tax with lower thresholds than federal. |
+
+### Tax-Related Information
+
+| Item | Details |
+|------|---------|
+| CPA / Tax Preparer | `_______________` |
+| CPA Phone | `_______________` |
+| Tax Returns Location (last 7 years) | `_______________` |
+| Filing Status | `_______________` *(single, married filing jointly, etc.)* |
+| State of Residence for Tax Purposes | `_______________` |
+| Any Unfiled Returns? | [ ] Yes [ ] No — Details: `_______________` |
+| Outstanding Tax Debts / Payment Plans? | [ ] Yes [ ] No — Details: `_______________` |
+| Estimated Tax Payments Made This Year? | [ ] Yes [ ] No — Amount: `_______________` |
+
+> **Note for families:** Contact the CPA as soon as possible — ideally within the first 30 days. They need to know the date of death, and they may need access to financial records to prepare the final returns. Don't ignore this because you're overwhelmed. The CPA does the work — you just need to authorize them.
+
+---
+
 ## Insurance
 
 ### Life Insurance
@@ -321,11 +386,35 @@ _______________________________________________________________________________
 **Deed Location:** `_______________`
 **Title Insurance Policy Location:** `_______________`
 
+### Rental Properties (If You Are a Landlord)
+
+*If you own rental properties, your tenants need to know who to contact. Leases survive your death — tenants cannot be evicted just because the landlord died. Someone needs to manage these properties or the estate will lose income and the tenants will be left in limbo.*
+
+| Property Address | Tenant(s) | Lease Expiration | Monthly Rent | Property Manager | Notes |
+|-----------------|-----------|-----------------|-------------|-----------------|-------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+**Property Management Company (if any):** `_______________`
+**Phone:** `_______________`
+
+**If there's no property manager:** Someone needs to step in to collect rent, handle maintenance requests, and communicate with tenants. Name a person: `_______________`
+
 ### Storage Units
 
 | Facility | Address | Unit # | Monthly Cost | Paid How | What's In It |
 |----------|---------|--------|-------------|----------|-------------|
 | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Warranties & Service Contracts
+
+*Some are transferable to new owners. Some pay out on failure. Most will expire, but a few are worth knowing about.*
+
+| Item | Provider | Expires | Transferable? | Contract Location |
+|------|---------|---------|--------------|------------------|
+| Home Warranty | `_______________` | `_______________` | [ ] Yes [ ] No | `_______________` |
+| `_______________` | `_______________` | `_______________` | [ ] Yes [ ] No | `_______________` |
+| `_______________` | `_______________` | `_______________` | [ ] Yes [ ] No | `_______________` |
 
 ---
 
@@ -344,6 +433,8 @@ _______________________________________________________________________________
 | `_______________` | [ ] Medical Debt | `_______________` | `_______________` | [ ] Yes [ ] No | [ ] Yes [ ] No |
 | `_______________` | [ ] Credit Card | `_______________` | `_______________` | [ ] Yes [ ] No | [ ] Yes [ ] No |
 | `_______________` | [ ] Other | `_______________` | `_______________` | [ ] Yes [ ] No | [ ] Yes [ ] No |
+
+> **For the family:** Debt collectors will call. They may pressure you to pay from your own money. In most states, you are NOT personally responsible for the deceased person's debts unless you co-signed or are a spouse in a community property state. Consult the attorney before paying anything. The estate is responsible — not you.
 
 ### Money Owed TO You
 
@@ -531,6 +622,69 @@ _______________________________________________________________________________
 
 ---
 
+## Government Notifications
+
+*These agencies need to be notified of the death. Some stop benefits, some start benefits, some just need the record updated. The funeral home typically notifies Social Security, but don't assume — confirm.*
+
+### Agencies to Notify
+
+| Agency | Why | How | Phone | Done? |
+|--------|-----|-----|-------|-------|
+| **Social Security Administration** | Stop benefits, apply for survivor benefits, lump-sum death payment ($255) | Call or visit local office | 1-800-772-1213 | [ ] |
+| **Medicare** (if enrolled) | Cancel coverage | Usually handled via SSA notification | 1-800-633-4227 | [ ] |
+| **Medicaid** (if enrolled) | Cancel coverage | Contact state Medicaid office | `_______________` | [ ] |
+| **Veterans Affairs** (if a veteran) | Burial benefits, survivor pension, headstone, flag | Call VA or visit va.gov | 1-800-827-1000 | [ ] |
+| **Department of Motor Vehicles** | Cancel driver's license (prevents ID theft) | Visit DMV or contact online | `_______________` | [ ] |
+| **Voter Registration** | Remove from rolls | Contact county election office | `_______________` | [ ] |
+| **U.S. Passport Agency** | Cancel passport | Mail passport with death certificate | `_______________` | [ ] |
+| **Post Office (USPS)** | Forward mail to executor | Visit post office or usps.com | `_______________` | [ ] |
+| **IRS** | Notify of death (CPA typically handles) | CPA files final return with death certificate | `_______________` | [ ] |
+| **State Tax Authority** | Final state tax return | CPA handles | `_______________` | [ ] |
+| **SNAP / Food Stamps** (if enrolled) | Cancel benefits | Contact local SNAP office | `_______________` | [ ] |
+| **Disability** (SSDI/SSI) (if enrolled) | Cancel benefits | Contact SSA | 1-800-772-1213 | [ ] |
+
+### Veterans Benefits (If Applicable)
+
+*Many families of veterans don't claim benefits they're entitled to. If the person served in the military, the following may be available at no cost:*
+
+- [ ] **Burial in a national cemetery** — free, including grave liner and headstone
+- [ ] **Government headstone or marker** — free, even for private cemetery burial
+- [ ] **Burial flag** — provided at no cost, typically draped over the casket
+- [ ] **Presidential Memorial Certificate** — signed by the sitting president
+- [ ] **Burial allowance** — partial reimbursement if not buried in a national cemetery
+- [ ] **Dependency and Indemnity Compensation (DIC)** — monthly payment to surviving spouse/children of veterans who died from service-related conditions
+- [ ] **Survivors Pension** — monthly payment to low-income surviving spouses/children of wartime veterans
+
+**VA Contact:** 1-800-827-1000 or visit va.gov
+**DD-214 Location:** `_______________` *(required for all VA benefits)*
+
+---
+
+## Identity Theft Protection
+
+*Dead people are prime targets for identity theft. Criminals scan obituaries and public death records, then apply for credit cards, loans, and tax refunds in the deceased person's name. This is not theoretical — it is extremely common. Protect the estate.*
+
+### Immediate Steps (Within First Week)
+
+- [ ] **Equifax** — Call 1-800-525-6285 to report the death and request a deceased alert
+- [ ] **Experian** — Call 1-888-397-3742 to report the death and request a deceased alert
+- [ ] **TransUnion** — Call 1-800-680-7289 to report the death and request a deceased alert
+- [ ] You will need: full legal name, Social Security number, date of birth, date of death, and a certified copy of the death certificate for each bureau
+
+### Additional Steps (Within 30 Days)
+
+- [ ] **Request a credit report** from annualcreditreport.com — check for any accounts you don't recognize
+- [ ] **Notify the DMV** to cancel the driver's license
+- [ ] **Opt out of prescreened credit offers** — call 1-888-567-8688 or visit optoutprescreen.com (reduces junk mail that could be intercepted)
+- [ ] **Monitor the mail** for unexpected credit card offers, account statements, or collection notices — these may indicate fraud
+
+### At 90 Days
+
+- [ ] **Pull another credit report** from all three bureaus — check for any new fraudulent accounts opened since the death
+- [ ] Report any fraud to the FTC at identitytheft.gov and file a police report if necessary
+
+---
+
 ## Pets
 
 *Your pets can't read this document. Someone needs to step up for them. Make sure that person has agreed to it BEFORE you write their name here.*
@@ -593,9 +747,136 @@ _______________________________________________________________________________
 
 ---
 
+## Children & Dependents
+
+*If you have minor children, the designated guardian needs far more than a name in a will. They need to keep your kid's world from collapsing. Fill this section in with obsessive detail — you're writing the instruction manual for someone else to raise your child.*
+
+### Children
+
+| Child's Name | Date of Birth | SSN Location | School | Grade | Notes |
+|-------------|-------------|-------------|--------|-------|-------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Custody & Guardianship
+
+| Item | Details |
+|------|---------|
+| Designated Guardian | `_______________` |
+| Documented In | `_______________` *(will, court order, etc.)* |
+| Other Parent Alive? | [ ] Yes [ ] No |
+| Other Parent Has Custody Rights? | [ ] Yes [ ] No |
+| Custody Agreement Location | `_______________` |
+| Is There a Custody Dispute? | `_______________` |
+
+### School & Childcare
+
+| Child | School Name | Address | Phone | Teacher/Contact | Bus Route / Pickup |
+|-------|-----------|---------|-------|----------------|-------------------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+**Before/After School Care:** `_______________`
+**Babysitter / Nanny:** `_______________` | Phone: `_______________`
+**Emergency School Contact (besides you):** `_______________`
+
+### Activities & Schedule
+
+| Child | Activity | Day/Time | Location | Coach/Leader | Phone |
+|-------|---------|----------|----------|-------------|-------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Medical Information (Per Child)
+
+| Child | Pediatrician | Phone | Allergies | Medications | Conditions |
+|-------|------------|-------|-----------|------------|-----------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+**Dentist:** `_______________` | Phone: `_______________`
+**Orthodontist:** `_______________` | Phone: `_______________`
+**Therapist / Counselor:** `_______________` | Phone: `_______________`
+**Health Insurance:** `_______________` *(see Insurance section)*
+
+### Daily Routines & Preferences
+
+*Write this so someone who has never put your kid to bed can do it tonight without the kid melting down.*
+
+```
+Morning routine:
+_______________________________________________________________________________
+
+After school routine:
+_______________________________________________________________________________
+
+Bedtime routine (include time):
+_______________________________________________________________________________
+
+Dietary needs or preferences:
+_______________________________________________________________________________
+
+Comfort items (stuffed animals, blankets, etc.):
+_______________________________________________________________________________
+
+Screen time rules:
+_______________________________________________________________________________
+
+Friends they're closest to (and parents' names/numbers):
+_______________________________________________________________________________
+
+Things that calm them down when upset:
+_______________________________________________________________________________
+
+Things that trigger meltdowns (and how to handle):
+_______________________________________________________________________________
+```
+
+### Important People in Their Lives
+
+| Name | Relationship | Phone | Notes |
+|------|-------------|-------|-------|
+| `_______________` | Best friend's parent | `_______________` | `_______________` |
+| `_______________` | Grandparent | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Financial Provisions for Children
+
+| Item | Details |
+|------|---------|
+| 529 Education Fund | `_______________` |
+| UTMA/UGMA Account | `_______________` |
+| Trust for Children | `_______________` |
+| Social Security Survivor Benefits | `_______________` *(minor children may be eligible)* |
+| Child Support Received or Paid | `_______________` |
+
+### Adult Dependents (If Applicable)
+
+*If you care for an aging parent, disabled sibling, or another adult dependent, document their needs here.*
+
+| Dependent | Relationship | Their Location | Care Needs | Who Takes Over |
+|-----------|-------------|---------------|-----------|---------------|
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+---
+
 ## Household Operations
 
 *The day-to-day things that keep a house running. If you're gone, someone needs to know where the shutoff valves are.*
+
+### Physical Mail
+
+*Mail will keep coming for months — bills, legal notices, tax documents, insurance correspondence, jury summons, and the occasional gut-punch birthday card from a company that doesn't know. Someone needs to handle this.*
+
+| Item | Details |
+|------|---------|
+| USPS Mail Forwarding Set Up? | [ ] Yes [ ] No |
+| Forwarding To | `_______________` *(executor's address)* |
+| PO Box? | [ ] Yes [ ] No — Location: `_______________` Key: `_______________` |
+| Who Is Checking the Mail? | `_______________` |
+
+> **What to watch for:** Anything from the IRS, state tax authority, insurance companies, banks, courts, or creditors. Do NOT throw away official-looking mail for at least a year. When in doubt, keep it.
 
 ### Utilities
 
@@ -656,9 +937,109 @@ _______________________________________________________________________________
 
 ---
 
+## Ongoing Commitments & Obligations
+
+*These are the things that don't stop just because you did. Someone needs to cancel, resign, or hand off each one — or they'll just keep expecting you to show up.*
+
+### Professional & Volunteer Commitments
+
+| Commitment | Organization | Contact Person | Phone/Email | Notes |
+|-----------|-------------|---------------|-------------|-------|
+| Board position | `_______________` | `_______________` | `_______________` | `_______________` |
+| Volunteer role | `_______________` | `_______________` | `_______________` | `_______________` |
+| Coaching | `_______________` | `_______________` | `_______________` | `_______________` |
+| Committee / PTA | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Recurring Appointments to Cancel
+
+| Appointment | Provider | Phone | Frequency | Notes |
+|------------|---------|-------|-----------|-------|
+| Dentist | `_______________` | `_______________` | `_______________` | `_______________` |
+| Therapist / Counselor | `_______________` | `_______________` | `_______________` | `_______________` |
+| Haircut / Barber | `_______________` | `_______________` | `_______________` | `_______________` |
+| Personal Trainer | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Memberships & Season Tickets
+
+*Some memberships have cancellation fees or require written notice. Season tickets may be transferable or refundable.*
+
+| Item | Organization | Cost | Cancellation Method | Notes |
+|------|-------------|------|-------------------|-------|
+| Gym membership | `_______________` | `_______________` | `_______________` | `_______________` |
+| Club / Lodge / Fraternal org | `_______________` | `_______________` | `_______________` | `_______________` |
+| Season tickets | `_______________` | `_______________` | `_______________` | `_______________` |
+| Professional license | `_______________` | `_______________` | `_______________` | *(CPA, attorney, medical, real estate, etc.)* |
+| Union membership | `_______________` | `_______________` | `_______________` | *(may have death benefit — check)* |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Keys & Access You Hold for Others
+
+*Do you have keys to someone else's house, office, or storage? Do you have access to shared accounts or systems? These need to be returned or transferred.*
+
+| What | Belongs To | Location of Key/Access | Contact |
+|------|----------|----------------------|---------|
+| `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` |
+
+---
+
+## Pending Travel & Reservations
+
+*If there are upcoming trips booked, these need to be cancelled — often within a specific window to get a refund. Check the booking confirmation emails for cancellation policies. Many airlines, hotels, and travel insurance companies have bereavement policies that offer flexibility.*
+
+### Upcoming Travel
+
+| Trip / Destination | Dates | Booked Through | Confirmation # Location | Refundable? | Travel Insurance? |
+|-------------------|-------|---------------|------------------------|-------------|------------------|
+| `_______________` | `_______________` | `_______________` | `_______________` | [ ] Yes [ ] No | [ ] Yes [ ] No |
+| `_______________` | `_______________` | `_______________` | `_______________` | [ ] Yes [ ] No | [ ] Yes [ ] No |
+
+### Active Reservations & Bookings
+
+| Type | Provider | Dates | Cancellation Policy | Notes |
+|------|---------|-------|-------------------|-------|
+| Flight | `_______________` | `_______________` | `_______________` | `_______________` |
+| Hotel | `_______________` | `_______________` | `_______________` | `_______________` |
+| Airbnb / Vacation Rental | `_______________` | `_______________` | `_______________` | `_______________` |
+| Rental Car | `_______________` | `_______________` | `_______________` | `_______________` |
+| Concert / Event Tickets | `_______________` | `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` | `_______________` | `_______________` |
+
+### Travel Insurance
+
+| Item | Details |
+|------|---------|
+| Travel Insurance Provider | `_______________` |
+| Policy Location | `_______________` |
+| Phone | `_______________` |
+
+> **Tip:** Many credit cards include trip cancellation insurance. Check the card benefits before paying out of pocket.
+
+---
+
 ## Funeral & Memorial Preferences
 
 *Your family will agonize over every detail if you don't write this down. Save them the guilt of guessing.*
+
+### Religious & Cultural Requirements
+
+*Some faiths and cultures have very specific requirements about timing, body preparation, burial orientation, and ritual. If these matter to you, they need to be documented clearly because the people making arrangements may not know the details — and some requirements are measured in hours, not days.*
+
+| Item | Details |
+|------|---------|
+| Faith / Cultural Tradition | `_______________` |
+| Specific requirements for body preparation | `_______________` *(ritual washing, shroud, specific clothing, etc.)* |
+| Time-sensitive requirements | `_______________` *(e.g., burial within 24 hours)* |
+| Burial orientation / positioning | `_______________` *(e.g., facing Mecca)* |
+| Restrictions | `_______________` *(e.g., no embalming, no cremation, no autopsy)* |
+| Religious leader to contact | `_______________` |
+| Phone | `_______________` |
+| Congregation / Mosque / Temple / Church | `_______________` |
+| Specific prayers, rituals, or readings required | `_______________` |
+
+> **For the family:** If you're not sure about the person's religious or cultural requirements, contact their religious leader or community IMMEDIATELY. Some traditions have very strict timelines. Getting it wrong is much harder to fix after the fact.
 
 ### Disposition
 
@@ -739,16 +1120,24 @@ _______________________________________________________________________________
 | `_______________` | `_______________` | `_______________` |
 | `_______________` | `_______________` | `_______________` |
 
-### Messages
+---
 
-*If there's anything you want to say to specific people, write it here or put sealed letters in your safe with their names on them.*
+## Letters to Loved Ones
 
-```
-_______________________________________________________________________________
-_______________________________________________________________________________
-_______________________________________________________________________________
-_______________________________________________________________________________
-```
+*A section in a checklist is not the right place for your last words to the people you love. But this is the right place to tell someone those letters exist.*
+
+*If you have things to say to specific people — your kids, your partner, your parents, a friend — write them. Seal them. Put their name on the envelope. Store them somewhere they'll be found.*
+
+| Envelope For | Stored At | Notes |
+|-------------|----------|-------|
+| `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` |
+| `_______________` | `_______________` | `_______________` |
+
+**All letters are stored at:** `_______________` *(e.g., "fireproof safe, top shelf," "with attorney," etc.)*
+
+> **If you haven't written these yet:** You don't have to write a novel. A single page, in your own handwriting, telling someone what they meant to you — that piece of paper will be the most valuable thing you've ever written. Do it today. You can always revise it later. You might not get a later.
 
 ---
 
@@ -817,6 +1206,28 @@ _______________________________________________________________________________
 | `_______________` | `_______________` | `_______________` |
 | `_______________` | `_______________` | `_______________` |
 | `_______________` | `_______________` | `_______________` |
+
+---
+
+## Grief & Support Resources
+
+*This document is mechanical by design — checklists, tables, tasks. But you're a person, not an executor. Here are real resources for the human part.*
+
+### Crisis Support
+- **988 Suicide & Crisis Lifeline:** Call or text **988** (24/7)
+- **Crisis Text Line:** Text **HOME** to **741741** (24/7)
+
+### Grief Support
+- **GriefShare:** griefshare.org — Free support groups nationwide, in-person and online
+- **The Dinner Party:** thedinnerparty.org — Peer support for people in their 20s-40s
+- **National Alliance for Grieving Children:** childrengrieve.org
+- **Local hospice organizations** often provide free bereavement counseling for up to a year, even if the person was not a hospice patient
+
+### For Children
+- Use real words: "died" not "passed away" or "went to sleep"
+- Maintain their routine as much as possible
+- They may seem fine for weeks and then fall apart — this is normal
+- Ask the school counselor for support
 
 ---
 
